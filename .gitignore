@@ -12,7 +12,12 @@ env/
 
 # Sample images (too large)
 sample_images/
-sample_images_fixed/
+# Keep a few samples for demo
+!sample_images_fixed/class_00*.jpg
+!sample_images_fixed/class_01*.jpg
+!sample_images_fixed/class_13*.jpg
+!sample_images_fixed/class_14*.jpg
+!sample_images_fixed/class_17*.jpg
 
 # Uploads folder
 uploads/
