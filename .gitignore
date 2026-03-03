@@ -1,0 +1,30 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+data/
+*.h5
+*.hdf5
+venv/
+env/
+.venv
+
+# Sample images (too large)
+sample_images/
+sample_images_fixed/
+
+# Uploads folder
+uploads/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
