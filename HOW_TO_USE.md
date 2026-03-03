@@ -1,4 +1,4 @@
-# 🚦 How to Use Your Traffic Sign Detection System
+# 🚦 How to Use Your Traffic Detection and Recognition System
 
 ## ✅ Your System is Ready!
 

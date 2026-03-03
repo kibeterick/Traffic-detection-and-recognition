@@ -1,4 +1,4 @@
-# 🎉 Your Traffic Sign Detection System - COMPLETE!
+# 🎉 Your Traffic Detection and Recognition System - COMPLETE!
 
 ## ✅ Everything is Ready and Working!
 

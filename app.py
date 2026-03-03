@@ -137,7 +137,7 @@ def health():
 
 if __name__ == '__main__':
     print("\n" + "="*60)
-    print("German Traffic Sign Detection - Web Interface")
+    print("Traffic Detection and Recognition System")
     print("="*60)
     print("\nStarting server...")
     print("Open your browser and go to: http://localhost:5000")

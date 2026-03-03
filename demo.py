@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-German Traffic Sign Detection System - Demo
+Traffic Detection and Recognition System - Demo
 Demonstrates the complete system with multiple test cases
 """
 
@@ -34,7 +34,7 @@ SIGN_NAMES = {
 
 def main():
     print("\n" + "="*70)
-    print(" GERMAN TRAFFIC SIGN DETECTION SYSTEM - DEMO")
+    print(" TRAFFIC DETECTION AND RECOGNITION SYSTEM - DEMO")
     print("="*70)
     
     # Load model

@@ -1,4 +1,4 @@
-# 🚦 German Traffic Sign Detection System
+# 🚦 Traffic Detection and Recognition System
 
 A deep learning-based web application for detecting and classifying German traffic signs using Convolutional Neural Networks (CNN).
 

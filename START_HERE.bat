@@ -1,6 +1,6 @@
 @echo off
 echo ============================================================
-echo   GERMAN TRAFFIC SIGN DETECTION SYSTEM
+echo   TRAFFIC DETECTION AND RECOGNITION SYSTEM
 echo ============================================================
 echo.
 echo Starting web server...
